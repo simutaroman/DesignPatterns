@@ -1,5 +1,0 @@
-D:\Projects\DotNet\DesignPatterns\AdapterObjectPattern\bin\Debug\AdapterObjectPattern.exe.config
-D:\Projects\DotNet\DesignPatterns\AdapterObjectPattern\bin\Debug\AdapterObjectPattern.exe
-D:\Projects\DotNet\DesignPatterns\AdapterObjectPattern\bin\Debug\AdapterObjectPattern.pdb
-D:\Projects\DotNet\DesignPatterns\AdapterObjectPattern\obj\Debug\AdapterObjectPattern.exe
-D:\Projects\DotNet\DesignPatterns\AdapterObjectPattern\obj\Debug\AdapterObjectPattern.pdb
