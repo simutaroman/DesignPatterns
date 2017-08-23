@@ -12,11 +12,12 @@ namespace SingletonePattern
         public string InstanceData { get; set; }
         public static Singleton Instance()
         {
-            if (instance == null)
-            {
-                instance = new Singleton();
-            }
-            return instance;
+            return instance = instance ?? new Singleton();
+            //if (instance == null)
+            //{
+            //    instance = new Singleton();
+            //}
+            //return instance;
         }
         protected Singleton()
         {
