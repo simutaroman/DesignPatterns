@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPattern", "Fac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern", "PrototypePattern\PrototypePattern.csproj", "{6A7334D4-6080-4630-BAC6-A042260C6A01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonePattern\SingletonPattern.csproj", "{DA1C7DA2-45B3-4B15-AF5A-672EA73E3D9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{DA1C7DA2-45B3-4B15-AF5A-672EA73E3D9B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterClassPattern", "AdapterClassPattern\AdapterClassPattern.csproj", "{EB0A3E9A-CDF9-4FBC-A1AA-6ADBED7C2E2D}"
 EndProject
